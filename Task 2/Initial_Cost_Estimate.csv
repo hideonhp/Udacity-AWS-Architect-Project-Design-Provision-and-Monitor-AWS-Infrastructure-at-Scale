@@ -1,0 +1,31 @@
+﻿Estimate summary
+Upfront cost,Monthly cost,Total 12 months cost,Currency
+0,9046.35,108556.20,USD
+,,* Includes upfront cost
+
+
+Detailed Estimate
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Status,Configuration summary
+My Estimate,US East (N. Virginia),,Amazon EC2 ,0,667.071,8004.85,USD,,"Tenancy (Dedicated Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (t3.2xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (disabled), EBS Storage amount (5 TB), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+My Estimate,US East (N. Virginia),,Amazon RDS Custom for Oracle,0,2408.09,28897.08,USD,,"Storage for each RDS Custom instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (db.m5.8xlarge), Number of RDS Custom for Oracle instances (1), Utilization (On-Demand only) (100 %Utilized/Month), License (Customer-provided), Database edition (Enterprise), Deployment option (Single-AZ)"
+My Estimate,US East (N. Virginia),,Amazon RDS Custom for Oracle,0,2408.09,28897.08,USD,,"Storage for each RDS Custom instance (General Purpose SSD (gp2)), Storage amount (100 GB), Instance type (db.m5.8xlarge), Number of RDS Custom for Oracle instances (1), Utilization (On-Demand only) (100 %Utilized/Month), License (Customer-provided), Database edition (Enterprise), Deployment option (Single-AZ)"
+My Estimate,US East (N. Virginia),,Amazon EC2 ,0,159.87,1918.44,USD,,"Tenancy (Dedicated Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (m5ad.xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (disabled), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+My Estimate,US East (N. Virginia),,Amazon EC2 ,0,159.87,1918.44,USD,,"Tenancy (Dedicated Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (m5ad.xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (disabled), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+My Estimate,US East (N. Virginia),,Amazon EC2 ,0,159.87,1918.44,USD,,"Tenancy (Dedicated Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (m5ad.xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (disabled), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+My Estimate,US East (N. Virginia),,Amazon EC2 ,0,159.87,1918.44,USD,,"Tenancy (Dedicated Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (m5ad.xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (disabled), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+My Estimate,US East (N. Virginia),,S3 Standard,0,235.52,2826.24,USD,,S3 Standard storage (10 TB per month)
+My Estimate,US East (N. Virginia),,Data Transfer,0,0,0.00,USD,,
+My Estimate,US East (N. Virginia),,Amazon CloudWatch,0,151.259,1815.11,USD,,"Number of Metrics (includes detailed and custom metrics) (500), Standard Logs: Data Ingested (1 GB), Logs Delivered to CloudWatch Logs: Data Ingested (1 GB), Logs Delivered to S3: Data Ingested (1 GB)"
+My Estimate,US East (N. Virginia),,Amazon Elastic IP,0,0,0.00,USD,,"Number of EC2 instances (8), Number of EIPs per instance (1)"
+My Estimate,US East (N. Virginia),,AWS Data Transfer,0,20.48,245.76,USD,,"DT Inbound: Internet (1 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (1 TB per month), Data transfer cost (20.48)"
+My Estimate,US East (N. Virginia),,VPN Connection,0,73,876.00,USD,,"Working days per month (22), Number of Site-to-Site VPN Connections (2)"
+My Estimate,US East (N. Virginia),,Application Load Balancer,0,441.65000000000003,5299.80,USD,,Number of Application Load Balancers (2)
+My Estimate,US East (N. Virginia),,Amazon Route 53,0,0.5,6.00,USD,,"Hosted Zones (1), Additional Records in Hosted Zones (2)"
+My Estimate,US East (N. Virginia),,Amazon EC2 ,0,667.071,8004.85,USD,,"Tenancy (Dedicated Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (t3.2xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (disabled), EBS Storage amount (5 TB), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+My Estimate,US East (N. Virginia),,Amazon EC2 ,0,667.071,8004.85,USD,,"Tenancy (Dedicated Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (t3.2xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (disabled), EBS Storage amount (5 TB), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+My Estimate,US East (N. Virginia),,Amazon EC2 ,0,667.071,8004.85,USD,,"Tenancy (Dedicated Instances), Operating system (Linux), Workload (Consistent, Number of instances: 1), Advance EC2 instance (t3.2xlarge), Pricing strategy (On-Demand Utilization: 100 %Utilized/Month), Enable monitoring (disabled), EBS Storage amount (5 TB), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
